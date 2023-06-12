@@ -1,4 +1,4 @@
-package minsu;
+package Ch99;
 
 import java.util.Scanner;
 

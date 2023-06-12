@@ -1,4 +1,4 @@
-package minsu;
+package Ch99;
 
 class Buyer{
 	private int MyMoney;
@@ -66,7 +66,7 @@ class Seller{
 
 
 
-public class ExMain {
+public class test {
 	public static void main(String[] args) {
 		Seller 사과장수1 = new Seller(100000,100,1000); //보유금액, 사과개수, 개당가격
 		Buyer 이주현 = new Buyer(10000,0); //보유금액, 사과개수
